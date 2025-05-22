@@ -51,7 +51,13 @@ Our app may link to third-party services like Firebase or Google Maps. Please re
 
 ## 7. Children's Privacy
 
-Deep is intended for users **18 years and older**. We do not knowingly collect data from children.
+We take child safety seriously. Although **Deep** is not intended for users under 18, we have implemented measures to report inappropriate content or users.
+
+If you believe someone is misusing the app or violating safety standards, please contact us at:
+
+📧 **datingappdeep@gmail.com**
+
+We comply with all relevant child protection laws and report violations to appropriate regional or national authorities.
 
 ## 8. Updates to This Policy
 
